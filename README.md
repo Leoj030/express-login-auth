@@ -49,6 +49,8 @@ npm run devStart
 npm start
 ```
 
+Make sure to run them in the server folder.
+
 ### 4. Testing the System
 
 You can test the API endpoints using Postman or any similar tool (including VS Code extensions for API testing). Configure your requests and verify that the login authentication works as expected.
