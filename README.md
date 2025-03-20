@@ -9,8 +9,10 @@ Thank you for checking out this repository! This project demonstrates a simple *
 Before running the application, make sure to install the required dependencies by running:
 
 ```bash
-npm install
+cd server && npm install
 ```
+
+This will change the current directory to the server, and will install the neccessary dependencies there.
 
 ---
 
