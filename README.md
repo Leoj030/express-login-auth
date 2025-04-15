@@ -18,7 +18,7 @@ This will change the current directory to the server, and will install the necce
 
 ### 2. Create your own Environment Config
 
-You'll need to create your own environment configuration and fill it with your own values. There is a file named .env.example in the repository with the following variables:
+You need to create your own environment configuration and fill it with your own values. There is a file named .env.example in the repository with the following variables:
 
 ```js
 MONGODB_URI = your_mongodb_uri
